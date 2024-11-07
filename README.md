@@ -1,12 +1,15 @@
-# Priviet! I'm Cristian, but you can call me Cris 👋
+![Banner](/banner.png)
 
-Welcome to my GitHub profile! I'm currently developing (HA HA) an incredible love for Frontend and Backend development, trying to solve problems with technology.
+[![42Intra](/42badge.svg)](https://profile.intra.42.fr/users/cvalim-d)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianvalimdasilva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianvalim)
+![OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## About Me
 
-I am specializing in both frontend and backend development, exploring new technologies and enhancing my skills. My goal is to create meaningful and impactful projects.
-
-BTW! I am excited to share that I will be participating in the [42 Piscine](https://www.42.us.org/en) in September 2024. It is an intensive coding bootcamp, hosted by the 42 network (a world-famous dev school), that will allow me to deepen my programming skills, collaborate with other developers, and tackle challenging projects in a unique learning environment.
+I am currently a student at [42 Lisboa](https://www.42lisboa.com/), an innovative and intensive coding school that emphasizes peer-to-peer learning and project-based education. This experience is allowing me to deepen my programming skills, collaborate with other developers, and tackle challenging projects in a unique learning environment.
 
 **Key Skills:**
 - Frontend Development with React, HTML5, and CSS3 + Styled Components
@@ -15,6 +18,13 @@ BTW! I am excited to share that I will be participating in the [42 Piscine](http
 - Experience with RESTful APIs and authentication
 
 ## Highlighted Projects
+
+- **[42Libft](https://github.com/CristianValim/42Libft)**
+  - A project to recreate standard C library functions, as part of the 42 curriculum.
+
+- **[42BSQ](https://github.com/CristianValim/42BSQ)**
+  - A program with the purpose to find the largest square in a given matrix-map. This project involves algorithmic thinking and efficient problem-solving in C.
+
 
 - **[FoodExplorer (Frontend)](https://github.com/CristianValim/foodexplorerfe)**
   - The frontend for a restaurant website, developed as part of a project by Rocketseat. It allows users to view dishes and place orders. See the live site at [foodexplorerbycristianvalim.netlify.app](https://foodexplorerbycristianvalim.netlify.app).
@@ -25,29 +35,5 @@ BTW! I am excited to share that I will be participating in the [42 Piscine](http
 - **[NRVR Arquitetos](https://github.com/CristianValim/NRVR)**
   - A site for an architecture firm, developed with React as a Single Page Application (SPA). It features a project gallery showcasing various architectural designs. Visit the live site at [nrvrarquitetos.com](https://nrvrarquitetos.com).
 
-- **[Psicóloga Juliana de Alencar](https://github.com/CristianValim/psijudealencar)**
-  - A website for a psychologist, displaying services, location, and information about the professional. Check out the live website at [psijudealencar.com.br](https://psijudealencar.com.br).
 
-- **[Pai Presente Simulator](https://github.com/CristianValim/paipresentesimulator)**
-  - A fun project created in collaboration with my partner to celebrate Father's Day in the most daddy issues way. The site plays audio messages with comforting phrases, simulating a dad speaking to their son. Check out the live project at [cristianvalim.github.io/paipresentesimulator](https://cristianvalim.github.io/paipresentesimulator/).
-
-
-## Technologies and Tools
-
-- **Programming Languages:**
-  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-  - [TypeScript](https://www.typescriptlang.org/) (Learning...)
-
-- **Frameworks and Libraries:**
-  - [React](https://reactjs.org/)
-  - [Node.js](https://nodejs.org/)
-  - [Express](https://expressjs.com/)
-
-- **Tools:**
-  - [Git](https://git-scm.com/)
-
-
-## Connect with Me
-
-- LinkedIn: [Cristian Valim](https://www.linkedin.com/in/cristianvalim)
-- Email: [cristianvalimdasilva@gmail.com](mailto:cristianvalimdasilva@gmail.com)
+[![cvalim-d's 42 stats](https://badge.mediaplus.ma/kettlebells/cvalim-d?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
