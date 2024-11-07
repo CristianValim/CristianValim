@@ -1,11 +1,15 @@
 ![Banner](/banner.png)
 
+<div align="center">
+
 [![42Intra](/42badge.svg)](https://profile.intra.42.fr/users/cvalim-d)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianvalimdasilva@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianvalim)
 ![OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
 
 ## About Me
 
@@ -35,5 +39,8 @@ I am currently a student at [42 Lisboa](https://www.42lisboa.com/), an innovativ
 - **[NRVR Arquitetos](https://github.com/CristianValim/NRVR)**
   - A site for an architecture firm, developed with React as a Single Page Application (SPA). It features a project gallery showcasing various architectural designs. Visit the live site at [nrvrarquitetos.com](https://nrvrarquitetos.com).
 
+<div align="center">
 
 [![cvalim-d's 42 stats](https://badge.mediaplus.ma/kettlebells/cvalim-d?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+</div>
